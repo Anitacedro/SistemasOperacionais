@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1502935988 source:c:\users\marcio\desktop\so_vonnewman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"bib_newman.h"
+
+1502935251 n.h"
+
+1502935251 source:c:\users\marcio\desktop\so_vonnewman\bib_newman.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"bib_newman.h"
+
+1502935081 c:\users\marcio\desktop\so_vonnewman\bib_newman.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1502935081 
+
+1502935252 source:/media/aluno/ANA CLARA/SO/SO_VonNewman/bib_newman.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"bib_newman.h"
+
+1502935082 /media/aluno/ANA CLARA/SO/SO_VonNewman/bib_newman.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
