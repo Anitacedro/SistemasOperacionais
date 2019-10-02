@@ -20,10 +20,10 @@ int main()
 
     //criacao do filho 1
     if(pid1 == 0){
-        int soma=0,j;
-        for(j=0;j<5;j++){
-            if(vetor[j] % 2 == 0){
-                soma += vetor[j];
+        int soma=0,a;
+        for(a=0;a<5;a++){
+            if(vetor[a] % 2 == 0){
+                soma += vetor[a];
             }
         }
         printf("Soma dos pares no filho 1: %d\n", soma);
